@@ -1,1 +1,1 @@
-# good-first-issue-hackathons
+# Good First Issue Hackathons and Workshops
