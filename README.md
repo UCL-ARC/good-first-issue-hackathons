@@ -17,3 +17,4 @@ All material, [issues], and [project boards] are public.
 |---------|-----------------|----------------|-------|
 | 2025-07 | First contribution to open-source software workshop |The ARC Festival of Digital Research and Scholarship | [Project board](https://github.com/orgs/UCL-ARC/projects/151) |
 | 2024-12-03 | ARC Winter OSS Good-first-issue-athon | 90 High Holborn, Function Space | |
+| 2024-05-28 | ARC Open Source Contribution Party | 90 High Holborn, Case room 2 and virtual on Teams | |
