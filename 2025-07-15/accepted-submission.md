@@ -15,8 +15,8 @@ We'll be coding together in small groups and there will be experienced open-sour
 
 ## Resources needed
 
-A laptop, code editor, `git` and a GitHub account.
-Some familiarity with `git` is beneficial but not mandatory not all contributions are code!
+- A laptop, code editor, `git` and a GitHub account.
+- Some familiarity with `git` is beneficial but not mandatory; not all contributions are code!
 
 ## How you plan to recruit participants
 
