@@ -29,6 +29,6 @@ The material in this repository is licensed under [CC-by 4.0](https://creativeco
 Logos are trademarks and have different reuse guidelines:
 
 - [The UCL logo](https://www.ucl.ac.uk/brand/brand-essentials/ucl-logo).
-- The Open Source Initiative "Keyhole logo" [usage guidelines]([https://opensource.org/osi-logo-files](https://opensource.org/logo-usage-guidelines)) and [trademark guidelines](https://opensource.org/about/trademark-guidelines).
+- The Open Source Initiative "Keyhole logo" [usage guidelines](https://opensource.org/logo-usage-guidelines) and [trademark guidelines](https://opensource.org/about/trademark-guidelines).
 
 But we assume you will rebrand for your own organisation and purposes.
