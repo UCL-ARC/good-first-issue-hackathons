@@ -22,5 +22,13 @@ All material, [issues], and [project boards] are public.
 ## Reuse
 
 Want to run a workshop like this and use some of our material? Please go ahead!
-The material in this repository is licensed under [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/)
-![CC symbol](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY symbol](https://mirrors.creativecommons.org/presskit/icons/by.svg)
+The material in this repository is licensed under [CC-by 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" height="31" />
+
+Logos are trademarks and have different reuse guidelines:
+
+- [The UCL logo](https://www.ucl.ac.uk/brand/brand-essentials/ucl-logo).
+- The Open Source Initiative "Keyhole logo" [usage guidelines]([https://opensource.org/osi-logo-files](https://opensource.org/logo-usage-guidelines)) and [trademark guidelines](https://opensource.org/about/trademark-guidelines).
+
+But we assume you will rebrand for your own organisation and purposes.
