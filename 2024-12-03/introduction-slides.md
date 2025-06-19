@@ -1,12 +1,14 @@
 > [!NOTE]
 > These slides only render properly in HackMD. Hopefully the content is useful anyway.
 
----
+- The QR code was generated using [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator).
+
+--
 
 # ARC Open-Source
 ## "Good-first-issue-athon"
 
-![](https://avatars.githubusercontent.com/u/87066407?s=200) ![osi_symbol_0](https://hackmd.io/_uploads/SJ3z-SDXJl.png =200x)
+![](https://avatars.githubusercontent.com/u/87066407?s=200) ![osi_symbol_0](https://hackmd.io/_uploads/SJ3z-SDXJl.png)
 
 
 ---
@@ -38,13 +40,13 @@
 
 (You're encouraged to talk to them!)
 
-![David Stansby](https://avatars.githubusercontent.com/u/6197628?s=180)![Mosè Giordano](https://avatars.githubusercontent.com/u/765740?s=180)![Saransh Chopra](https://ca.slack-edge.com/T03SNFZRJ-U07FBULTFC0-f8a7f4e5662a-300 =180x)![Matthew Scroggs](https://avatars.githubusercontent.com/u/9850599?s=180)![David PS](https://ca.slack-edge.com/T03SNFZRJ-U0KDNBPK3-0a44fb0ac3cf-512 =180x)
+![David Stansby](https://avatars.githubusercontent.com/u/6197628?s=180)![Mosè Giordano](https://avatars.githubusercontent.com/u/765740?s=180)![Saransh Chopra](https://ca.slack-edge.com/T03SNFZRJ-U07FBULTFC0-f8a7f4e5662a-300)![Matthew Scroggs](https://avatars.githubusercontent.com/u/9850599?s=180)![David PS](https://ca.slack-edge.com/T03SNFZRJ-U0KDNBPK3-0a44fb0ac3cf-512)
 
 
 ---
 
  
-![QR Code Linking to GitHub](https://hackmd.io/_uploads/SJ_Xkbj7kg.svg =650x)
+![QR Code Linking to GitHub](https://hackmd.io/_uploads/SJ_Xkbj7kg.svg)
 
 
 --- 
