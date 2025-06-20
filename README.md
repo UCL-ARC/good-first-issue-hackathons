@@ -13,11 +13,11 @@ All material, [issues], and [project boards] are public.
 
 ## Events
 
-| Date    | Advertised name | Location/Event | Links |
-|---------|-----------------|----------------|-------|
-| 2025-07-15 | First contribution to open-source software workshop | [The ARC Festival of Digital Research and Scholarship](https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship) | [Project board](https://github.com/orgs/UCL-ARC/projects/151) |
-| 2024-12-03 | ARC Winter OSS Good-first-issue-athon | 90 High Holborn, Function Space | |
-| 2024-05-28 | ARC Open Source Contribution Party | 90 High Holborn, Case room 2 and virtual on Teams | |
+| Date       | Advertised name                                     | Location/Event                                                                                                                                                             | Links                                                                                                                                |
+| ---------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2025-07-15 | First contribution to open-source software workshop | [The ARC Festival of Digital Research and Scholarship](https://www.ucl.ac.uk/advanced-research-computing/events/2025/jul/festival-digital-research-innovation-scholarship) | [Project board](https://github.com/orgs/UCL-ARC/projects/151) [Welcome slides](http://scnlf.me/2025-07-15-Good-First-Issue-Welcome/) |
+| 2024-12-03 | ARC Winter OSS Good-first-issue-athon               | 90 High Holborn, Function Space                                                                                                                                            |                                                                                                                                      |
+| 2024-05-28 | ARC Open Source Contribution Party                  | 90 High Holborn, Case room 2 and virtual on Teams                                                                                                                          |                                                                                                                                      |
 
 ## Reuse
 
