@@ -22,7 +22,7 @@ All material, [issues], and [project boards] are public.
 ## Other resources
 
 - [PyOpenSci's "your first contribution"](https://www.pyopensci.org/lessons/contribute-open-source/your-first-contribution.html)
-
+- [GitHub's opensource.guide "how to contribute"](https://opensource.guide/how-to-contribute/)
 
 ## Reuse
 
