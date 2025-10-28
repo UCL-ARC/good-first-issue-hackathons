@@ -1,3 +1,5 @@
+![UCL Logo](https://raw.githubusercontent.com/UCL/open-source-dashboard/refs/heads/main/app/public/images/ucl-dark-light-mode-adaptive.svg)
+
 # Good First Issue Hackathons and Workshops
 
 [UCL-ARC] organises "Good first issue" hackathons and workshops to help UCL staff and students, who are curious about open source software, to make their first contribution!
