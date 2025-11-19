@@ -1,0 +1,30 @@
+name: New workshop or hackathon event
+description: Checklist issue to help planning for a hackathon or workshop event.
+title: "Planning for XX"
+labels: ["workshop", "hackathon"]
+body:
+  - type: markdown
+    attributes:
+      placeholder: |
+        What kind of event is this? Ex. workshop as part of a larger conference or event, dedicated hackathon. 
+        Also: remove the label that doesn't apply.
+      value: ""
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Pre-event planning checklist
+      description: Delete or check off as appropriate.
+      multiple: true
+      options:
+        - Room booking if needed (book a room[]()).
+        - Ensure sufficient helpers are available.
+        - Create pretix event for signups.
+        - Add event to the top-level README in this repository and link to any event pages.
+        - Open a PR to add to events.yaml on the UCL OSPO website [UCL/open-source](https://github.com/UCL/open-source/blob/main/_data/events.yml).
+        - Advertise event in Research Programming Slack `#general`.
+        - Advertise the event in UCL-ARC Slack `#events`.
+        - Advertise event with the community newsletter.
+        - Create or update some introductory slides. Add them to the repo.
+        - Create or update the curated `good first issue` list.
+        - Repeat advertisment posts one week before.
+        - Create a "Hackathon" issue for participants to comment on (for metrics).
