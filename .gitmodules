@@ -1,3 +1,6 @@
 [submodule "2025-07-15/welcome-slides"]
 	path = 2025-07-15/welcome-slides
 	url = git@github.com:samcunliffe/2025-07-15-Good-First-Issue-Welcome.git
+[submodule "2025-12-03/welcome-slides"]
+	path = 2025-12-03/welcome-slides
+	url = https://github.com/samcunliffe/2025-12-03-Good-First-Issue-Welcome
