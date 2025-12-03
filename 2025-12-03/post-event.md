@@ -1,4 +1,4 @@
-- Good attendance boldtsered by CDT students.
+- Good attendance bolstered by CDT students.
 - Such good attendance that we nearly had different people working on the same issue.
 - 13:30 - 15:48 😞 would have been nice to go longer?
 
@@ -24,6 +24,8 @@ The "Outcomes" issue worked well.
 - Tagging on with CDT was good for attendance.
 - Need to find some way to organise many people interested in one ticket.
   - Tables per language? Topic? Theme?
-  - Icebreaker?the 
+  - Icebreaker? 
 - Need to remember to check the ARC website and LinkedIn adverts (LinkedIn post had the wrong URL link for ages).
 - If one Googles "Winter ARC Good First Issue Hackathon", the top result is last year's event: push for a new event post or call the event something else!
+- Add a pretix question like "do you mind if we take a photo of you"?
+- Bring stickers!
