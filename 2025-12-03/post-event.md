@@ -15,13 +15,15 @@ After about 45 minutes, check in to make sure everyone had managed to _find_ an 
 ## Good
 
 Small group and enough helpers to pair up!
+Short slides are better than long slides.
+The "Outcomes" issue worked well.
 
-## Lessons learned
+## Lessons learned / things to remember for next time
 
 - Book the room ourselves and leave at least an hour overtime.
 - Tagging on with CDT was good for attendance.
 - Need to find some way to organise many people interested in one ticket.
   - Tables per language? Topic? Theme?
   - Icebreaker?the 
-- Need to remember to check ARC website and linkedin adverts (Linkedin post had the wrong URL link for ages).
-- If one Google's "Winter ARC Good First Issue Hackathon", the top result is last year's event: push for a new event post.
+- Need to remember to check the ARC website and LinkedIn adverts (LinkedIn post had the wrong URL link for ages).
+- If one Googles "Winter ARC Good First Issue Hackathon", the top result is last year's event: push for a new event post or call the event something else!
