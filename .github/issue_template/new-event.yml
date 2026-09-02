@@ -2,13 +2,13 @@ name: New workshop or hackathon event
 description: Checklist issue to help planning for a hackathon or workshop event.
 title: "Planning for XX"
 labels: ["workshop", "hackathon"]
+type: Task
 body:
   - type: markdown
     attributes:
-      placeholder: |
+      value: |
         What kind of event is this? Ex. workshop as part of a larger conference or event, dedicated hackathon. 
         Also: remove the label that doesn't apply.
-      value: ""
   - type: checkboxes
     id: checklist
     attributes:
@@ -26,5 +26,5 @@ body:
         - Advertise event with the community newsletter.
         - Create or update some introductory slides. Add them to the repo.
         - Create or update the curated `good first issue` list.
-        - Repeat advertisment posts one week before.
+        - Repeat advertisement posts one week before.
         - Create a "Hackathon" issue for participants to comment on (for metrics).
