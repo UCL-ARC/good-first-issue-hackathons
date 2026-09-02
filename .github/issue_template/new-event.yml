@@ -16,7 +16,7 @@ body:
       description: Delete or check off as appropriate.
       multiple: true
       options:
-        - Room booking if needed (book a room[]()).
+        - Room booking if needed ([book a room](https://roombooking-current.ucl.ac.uk/)).
         - Ensure sufficient helpers are available.
         - Create pretix event for signups.
         - Add event to the top-level README in this repository and link to any event pages.
